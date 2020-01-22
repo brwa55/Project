@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137596765310",
+    "firebase_url": "https://dochub-8c5eb.firebaseio.com",
+    "project_id": "dochub-8c5eb",
+    "storage_bucket": "dochub-8c5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137596765310:android:9d67bdd76c45e94ed2042f",
+        "android_client_info": {
+          "package_name": "com.dochubteam.dochub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137596765310-m5abvcrlb60rfqh218oasnmnkfnhvtdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dochubteam.dochub",
+            "certificate_hash": "cee2e7a748449597725b5aad8cb478b0fd0a967c"
+          }
+        },
+        {
+          "client_id": "137596765310-t1alfipv5r0vpn36jtnojossc2gr5gar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkx5n4jYMSCPoV3X2MZfmuQoeBuU93KD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137596765310-t1alfipv5r0vpn36jtnojossc2gr5gar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
